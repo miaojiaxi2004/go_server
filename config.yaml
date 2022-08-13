@@ -1,0 +1,27 @@
+jwt:
+  signing-key: 'qmPlus'
+  expires-time: 604800
+  buffer-time: 86400
+redis:
+  db: 0
+  addr: '127.0.0.1:6379'
+  password: 'mi@o2004'
+system:
+  env: 'public' 
+  addr: 8888
+  db-type: 'mysql'
+  oss-type: 'local'
+  use-multipoint: false
+  use-redis: false
+  iplimit-count: 15000
+  iplimit-time: 3600
+mysql:
+  path: ''
+  config: ''
+  db-name: ''
+  username: ''
+  password: ''
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: false
+  log-zap: ""
