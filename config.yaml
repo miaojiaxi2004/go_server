@@ -1,27 +1,30 @@
-jwt:
-  signing-key: 'qmPlus'
-  expires-time: 604800
-  buffer-time: 86400
-redis:
-  db: 0
-  addr: '127.0.0.1:6379'
-  password: 'mi@o2004'
-system:
-  env: 'public' 
-  addr: 8888
-  db-type: 'mysql'
-  oss-type: 'local'
-  use-multipoint: false
-  use-redis: false
-  iplimit-count: 15000
-  iplimit-time: 3600
 mysql:
-  path: ''
-  config: ''
-  db-name: ''
-  username: ''
-  password: ''
+  path: '127.0.0.1'
+  port: '3306'
+  config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  db-name: 'mytestdb'
+  username: 'root'
+  password: '123456'
   max-idle-conns: 10
   max-open-conns: 100
   log-mode: false
   log-zap: ""
+redis:
+  db: 0
+  addr: 127.0.0.1:6379
+  password: "mi@o2004"
+zap:
+  level: info
+  prefix: '[github.com/miaojiaxi2004/go_server]'
+  format: console
+  director: log
+  encode-level: LowercaseColorLevelEncoder
+  stacktrace-key: stacktrace
+  max-age: 0
+  show-line: true
+  log-in-console: true
+jwt:
+  signing-key: '*l7b$$@z*^8d2$_^mn8oeca7d+d644_bmh%-5edtl(8x_%_cqx'
+  expires-time: 604800
+  buffer-time: 86400
+  issuer: miaojiaxi

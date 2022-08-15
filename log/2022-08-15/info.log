@@ -1,0 +1,25 @@
+[github.com/miaojiaxi15036/go_server]2022/08/15 - 22:36:36.909	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+[github.com/miaojiaxi15036/go_server]2022/08/15 - 22:36:36.946	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:18	use middleware logger
+[github.com/miaojiaxi15036/go_server]2022/08/15 - 22:36:36.946	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:22	use middleware cors
+[github.com/miaojiaxi15036/go_server]2022/08/15 - 22:36:36.946	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:37	register swagger handler
+[github.com/miaojiaxi15036/go_server]2022/08/15 - 22:36:36.948	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:44	router register success
+[github.com/miaojiaxi15040/go_server]2022/08/15 - 22:40:02.134	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+[github.com/miaojiaxi15040/go_server]2022/08/15 - 22:40:02.159	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:18	use middleware logger
+[github.com/miaojiaxi15040/go_server]2022/08/15 - 22:40:02.160	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:22	use middleware cors
+[github.com/miaojiaxi15040/go_server]2022/08/15 - 22:40:02.160	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:37	register swagger handler
+[github.com/miaojiaxi15040/go_server]2022/08/15 - 22:40:02.161	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:44	router register success
+[github.com/miaojiaxi15044/go_server]2022/08/15 - 22:44:10.138	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+[github.com/miaojiaxi15044/go_server]2022/08/15 - 22:44:10.164	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:18	use middleware logger
+[github.com/miaojiaxi15044/go_server]2022/08/15 - 22:44:10.164	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:22	use middleware cors
+[github.com/miaojiaxi15044/go_server]2022/08/15 - 22:44:10.165	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:37	register swagger handler
+[github.com/miaojiaxi15044/go_server]2022/08/15 - 22:44:10.166	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:44	router register success
+[github.com/miaojiaxi15045/go_server]2022/08/15 - 22:45:48.661	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+[github.com/miaojiaxi15045/go_server]2022/08/15 - 22:45:48.687	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:18	use middleware logger
+[github.com/miaojiaxi15045/go_server]2022/08/15 - 22:45:48.687	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:22	use middleware cors
+[github.com/miaojiaxi15045/go_server]2022/08/15 - 22:45:48.688	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:37	register swagger handler
+[github.com/miaojiaxi15045/go_server]2022/08/15 - 22:45:48.689	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:44	router register success
+[github.com/miaojiaxi15047/go_server]2022/08/15 - 22:47:18.742	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+[github.com/miaojiaxi15047/go_server]2022/08/15 - 22:47:18.768	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:18	use middleware logger
+[github.com/miaojiaxi15047/go_server]2022/08/15 - 22:47:18.768	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:22	use middleware cors
+[github.com/miaojiaxi15047/go_server]2022/08/15 - 22:47:18.768	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:37	register swagger handler
+[github.com/miaojiaxi15047/go_server]2022/08/15 - 22:47:18.769	[34minfo[0m	D:/all_project/GolandProjects/src/github.com/miaojiaxi2004/go_server/initialize/router.go:44	router register success
